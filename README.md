@@ -12,4 +12,4 @@ Simrit Lidhar
 Jiaqiao Han
 ## Dataset Description
 Our dataset includes 510,000 customer reviews and scores for 1493 luxury hotels all over Europe, along with the geographical locations of the hotels. 
-The data is organized into 17 columns which describe the hotels, their review scores, and the sentiments of the reviews.
+The data is from Booking.com, and it is organized into 17 columns which describe the hotels, their review scores, and the sentiments of the reviews.
