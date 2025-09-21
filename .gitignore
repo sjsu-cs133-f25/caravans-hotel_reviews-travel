@@ -301,3 +301,7 @@ http-client.private.env.json
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Project-specific ignores
+data/        # all raw/processed data
+secrets/     # API keys, credentials, etc.
