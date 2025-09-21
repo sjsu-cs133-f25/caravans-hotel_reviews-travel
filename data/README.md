@@ -1,3 +1,4 @@
 Instructions:  
 Go to: https://www.kaggle.com/datasets/jiashenliu/515k-hotel-reviews-data-in-europe  
-Download the dataset (Kaggle account is required)
+Download the dataset (Kaggle account is required)  
+Place downloaded file in folder: `data/Hotel_Reviews.csv`
