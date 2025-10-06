@@ -3,21 +3,24 @@
 Analyzing European Hotel Reviews
 ## Team Members
 ### Project Manager  
-Jiaqiao Han
+Edward Yan
 ### Data Engineers
+Jiaqiao Han
+
 Zainul Hasan Syed Mohammed  
 
 Simrit Lidhar  
 
-Austin Trinh
 ### Data Storyteller
-Edward Yan
+Austin Trinh
+
 ## Dataset Description
 Our dataset includes 510,000 customer reviews and scores for 1493 luxury hotels all over Europe, along with the geographical locations of the hotels. 
 The data is from Booking.com, and it is organized into 17 columns which describe the hotels, their review scores, and the sentiments of the reviews.  
 
 ## Notebooks:  
 - 01_explore.ipynb: exploration and explanation of dataset
+- 02_visual_analytics.ipynb
 
 ## Dependencies:
 To install kagglehub on Google Colab run:  
